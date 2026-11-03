@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url><loc>https://globalnews.wajiha.fun/</loc><changefreq>daily</changefreq><priority>1.0</priority></url>
+  <url><loc>https://globalnews.wajiha.fun/regions/</loc><changefreq>weekly</changefreq><priority>0.8</priority></url>
+  <url><loc>https://globalnews.wajiha.fun/regions/china/</loc><changefreq>daily</changefreq><priority>0.9</priority></url>
+  <url><loc>https://globalnews.wajiha.fun/regions/germany/</loc><changefreq>daily</changefreq><priority>0.9</priority></url>
+  <url><loc>https://globalnews.wajiha.fun/regions/brazil/</loc><changefreq>daily</changefreq><priority>0.9</priority></url>
+  <url><loc>https://globalnews.wajiha.fun/regions/japan/</loc><changefreq>daily</changefreq><priority>0.9</priority></url>
+  <url><loc>https://globalnews.wajiha.fun/sectors/</loc><changefreq>weekly</changefreq><priority>0.8</priority></url>
+  <url><loc>https://globalnews.wajiha.fun/sectors/logistics/</loc><changefreq>daily</changefreq><priority>0.9</priority></url>
+  <url><loc>https://globalnews.wajiha.fun/sectors/agritech/</loc><changefreq>daily</changefreq><priority>0.9</priority></url>
+  <url><loc>https://globalnews.wajiha.fun/sectors/supply-chain/</loc><changefreq>daily</changefreq><priority>0.9</priority></url>
+  <url><loc>https://globalnews.wajiha.fun/sectors/raw-commodities/</loc><changefreq>daily</changefreq><priority>0.9</priority></url>
+  <url><loc>https://globalnews.wajiha.fun/privacy-policy/</loc><changefreq>monthly</changefreq><priority>0.5</priority></url>
+  <url><loc>https://globalnews.wajiha.fun/terms-and-conditions/</loc><changefreq>monthly</changefreq><priority>0.5</priority></url>
+  <url><loc>https://globalnews.wajiha.fun/about-us/</loc><changefreq>monthly</changefreq><priority>0.6</priority></url>
+  <url><loc>https://globalnews.wajiha.fun/contact-us/</loc><changefreq>monthly</changefreq><priority>0.6</priority></url>
+</urlset>
